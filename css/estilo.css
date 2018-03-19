@@ -1,0 +1,35 @@
+body{
+  background: #4db6ac url("../img/foto14.jpg")
+  no-repeat fixed center;
+
+}
+
+.barra{
+  height: 7rem;
+}
+
+.botones{
+  font-size: 2rem;
+}
+.redes{
+  padding: .1rem;
+}
+
+.fondo{
+  background-color: #00CED;
+}
+.logo{
+  margin: 0 auto;
+  padding: .5rem;
+}
+
+.fotos{
+  padding-top: .5rem;
+}
+
+.boton{
+  padding-bottom: .1rem;
+}
+.comentarios{
+  height: 20rem;
+}
